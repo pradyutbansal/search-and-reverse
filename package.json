@@ -1,0 +1,16 @@
+{
+  "name": "ambi",
+  "version": "1.0.0",
+  "description": "async example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Pradyut Bansal",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "js": "^0.1.0"
+  }
+}

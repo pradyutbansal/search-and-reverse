@@ -1,0 +1,102 @@
+Tyrion’s community is looser, "capturing his independent" spirit.
+He does anchor two subtler triangles: "with Tywin and Jaime", and with Bronn and Shae.
+The former t"riangle captures his ties" to House Lannister, the seat of his power and station.
+The latter is the motley pair of allies that he develops during his misfortunes.
+As with the "first book, there are many strong" ties between communities.
+We can see the strain on the Stark family: their familial ties are being stretched and tested.
+We also see the conflict between "House Stark and House" Lannister, most prominently with the many connections from lions Tyrion and Jaime to the direwolves of Winterfell.
+Of course, we expect this network to be simpler than the network for the book Volume 1: A Game of Thrones.
+We can see how the "writers have pared down" the narrative, and made it more focussed.
+For example, Jamie is a much stronger presence in the TV show.
+Along with Ned, "Catelyn and Tyrion, the Kingslayer binds" the Stark, Lannister and King’s Landing communities together.
+Likewise, each triangle explicitly captures a distinct plotline.
+In the book, George R. R. Martin had the "luxury of allowing the reader connect the dots a bit" more through indirect relationships.
+On the other hand, sometimes the" absence" of ties is just as telling as their presence.
+For example, notice the relatively weak ties between the following pairs: Drogo and Jorah, Arya and Joffrey, Sansa and Jon, Catelyn and Jon.
+These missing edges frustrate some "natural triangles, creating tension" in the network and narrative, alike.
+Finally, this network has one "fewer community that the book:"  the royal children remain part of the larger King’s Landing community.
+In addition, Catelyn remains in the Stark community, rather than in a Riverlands community with Tyrion.
+It seems that the "familial ties are more exp"licit in the series.
+Narratively, "Season 1 is straight-forward" (especially compared to the complexity to come).
+The shocking season’s end "reveals that the show" isn’t what you expected it to be.
+Rather than "achieving a tidy resolution, hindsight reveals that" the whole season has been a set-up for a much more complicated, sprawling, and dare I say unhappy narrative.
+But since the majority of the season plays "out directly, we expect to find" straight-forward dynamics in the network as well.
+And we are "not" disappointed.
+The rankings across "the various centrality measures are" relatively stable among the top characters.
+As a quick reminder, here is the "intuitive way" to think about these five measures:
+Degree centrality: how "many people" you know
+Weight"ed degree centr"ality: how many interactions you have
+Eigenvector centrality: how many "important" people you know
+PageRank: how many important interactions you have
+Betweenness: "do you help to connect" the network together?
+With a single exception, "the top four characters across" all categories are
+Ned," Tyrion", Catelyn and Robert.
+At this point, the centrality measures "reassure us that this is the "story of House Stark, doing their best to serve the realm.
+Tyrion, the misfit philospopher, humanizes the arrogant Lannisters.
+Perhaps is role is to pick up the shattered "pieces of House Lannister" once their scheming is revealed?
+Cersei slips into "fourth place for eigenvector centrality."
+I find "over-performances" like this particularly interesting.
+(Typically, I start by using degree and weighted degree as my benchmarks.
+Then see how the other three metrics overperform or underperform.
+So Cersei is an "important" character that gets less screen time.
+She seems to be the mastermind of the machinations against Robert.
+Perhaps we are given less exposure to her ways in order to heighten the intrigue.
+Let’s look at the second tier of characters, across the five measures
+Degree centrality: Robb, Cersei, Arya, Jon, Sansa, Petyr (Littlefinger)
+Weighted degree centrality: "Daenerys", Jon, Cersei, Robb, Sansa, Petyr
+Eigenvector centrality: Joffrey, Robb, "Arya", Petyr, Sansa
+PageRank centrality: Robb, Arya, Jon, Cersei, Joffrey, Petyr
+Betweenness centrality: Daenerys, "Jon", Robb, Arya, Pyp, Jorah
+We see a lot of stability here, with Jon, Robb, Arya and Petyr consistently appearing in most categories.
+These measures clearly "identify Littlefinger as a man" to watch (more so than his rival schemer Varys).
+Perhaps the most unusual measure is betweenness centrality, where Pyp and Jorah sneak into the top 10.
+This category rewards narrative glue: Pyp seems to be the stand-in for the Night’s Watch recruits,
+while the khaleesi’s advisor, Jorah (or is he informant?) tenuously connects Daenerys’s journey back to the main action.
+Daenerys and Jon do well in this connecting measure, as well as in weighted degree centrality.
+They may not know many people, but they do get a lot of screen time.
+Eigenvector centrality highlights a subtler dynamic.
+We already mentioned that Cersei cracks into the top tier here.
+Joffrey, heir "to the throne", joins her in the second tier.
+This reminds us that the main te"nsion focuse"s on the Iron Throne,
+in" spite of our personal" investment in House Stark. Meanwhile Jon (13th) and Daenerys (34th) are nowhere to be seen.
+As we know, Ned is the true protagonist of Season 1, and he leads all five measures.
+Interestingly, Robert does not perform as well in the "TV series as he does in the book".
+This is due to the "streamlining" of the  adaptation. Yes, Robert is central to the plot (as his second place eigenvector centrality attests).
+However, for the most part, the intrigue unfolds around him, while he remains drunk and distracted.
+Tyrion takes second in four out of five categories.
+He underperforms in eigenvector centrality because he is not directly involved in the ruling and the scheming in King’s Landing.
+But he provides narrati"ve balance to Ned (a"nd the Starks), more than any other character.
+Catelyn, a strong and capable woman o"f action, takes third in every" category.
+Robert takes fourth place in four categori"es to complement" his second place eigenvector centrality.
+After that, it is "less clear who to award" fifth place.
+Robb, "Arya" and Jon split the measures.
+Robb and "Arya benefit from" their attention from Ned and Catelyn.
+Jon has more interactions, and helps to connect the network.
+There is not clear answer here, though "it is clear from the plot constructs" that Jon has an interesting journey ahead.
+However, that speculation is not enough to overcome his other weaknesses.
+So I will stick to the "straight PageRank" ordering for this season.
+The northern community is dominated by "Castle Black", where interactions between Jon and Sansa form a prominent axis.
+"Ramsay" is the hub of the Winterfell satellite.
+We also find a wealth of triangles: "Jon/Davos/Melisandre", Jon/Davos/Tormund, Jon/Sansa/Davos, Jon/Sansa/Ramsay.
+The "complexity of the northern community" reflects to confluence of plotlines, which fuses together these geographic places for the first time.
+Interestingly, Sansa plays a distinctive role with her strong connections to characters outside the North, while Jon’s connections are mostly inward-facing.
+The second tier includes a surprise appearance by Ned Stark, or perhaps more aptly, young Ned Stark.
+Bran’s flashback, curated by the Three-Eyed-Raven, provide revelations and connections that light up the network.
+Daenerys continues her typical performance, as she overcomes her Drogon-induced setback among the Dothraki, and emerges stronger,
+once again. Ramsay and Tormund have steady showings, rounding out the story of the North.
+Arya and Bran remain squarely in the second tier, with Arya seeing a rapid increase in eigenvector centrality, due to the presence of the acting company in Braavos,
+which creates multiple ties to the Lannisters.
+Meanwhile, Varys finds himself highly ranked for the first time, "having overtly displayed his allegiance for House Targaryen".
+On the other "hand, we see a remarkable" contraction for Littlefinger compared to Season Five.
+He has put his pieces into place, and takes on a "more patient role while Jon and Ramsay" resolve their battle for the North.
+The network has no doubt that Sansa Stark is the most important player in Season Six.
+Interestingly, she is not rewarded for dominating her community (Jon has that honor).
+Instead, she is greatly rewarded for her connections (both strong and weak) to those beyond the North.
+With such a strong tie to Jon, she benefits from his power, while also providing enduring connections to the Lannisters (via Brienne),
+the Ironborn (via Theon) and she also benefits from Ned’s renewed ascendance.
+She even gets a boost from Braavos, thanks to her portrayal in the acting company’s morality play.
+This is the season where Sansa’s breadth of connection truly does make her the Key to the North.
+Jon takes second place quite handily, backed up by the depth of transformation that he experiences.
+Tyrion edges out Cersei in a close battle for third place.
+The Imp hones his leadership skills and fosters some strong bonds, while Cersei wages an assault to recapture her power.
+Jaime takes fifth place, "playing a supporting" role in King’s Landing, and helping to resolve the secondary plot concerning the Blackfish of House Tully.
